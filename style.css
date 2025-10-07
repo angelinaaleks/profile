@@ -297,19 +297,19 @@
 }
 
 .experience-block1:hover {
-    background-image: url(/img/college.png);
+    background-image: url(./img/college.png);
     background-size: cover;
     background-position: center;
 }
 
 .experience-block2:hover {
-    background-image: url(/img/school.png);
+    background-image: url(./img/school.png);
     background-size: cover;
     background-position: center;
 }
 
 .experience-block3:hover {
-    background-image: url(/img/garden.png);
+    background-image: url(./img/garden.png);
     background-size: cover;
 }
 
